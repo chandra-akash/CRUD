@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1001,
+        "first_name": "Prateek",
+        "last_name": "Shukla",
+        "email": "prateek@masaischool.com",
+        "gender": "Male",
+        "ip_address": "164.215.194.36",
+        "age": 30
+    },
+    {
+        "id": 1002,
+        "first_name": "Yogesh",
+        "last_name": "Bhat",
+        "email": "yogesh@masaischool.com",
+        "gender": "Male",
+        "ip_address": "164.215.194.37",
+        "age": 42
+    },
+    {
+        "id": 1003,
+        "first_name": "Nrupul",
+        "last_name": "Dev",
+        "email": "nrupul@masaischool.com",
+        "gender": "Male",
+        "ip_address": "164.215.194.38",
+        "age": 38
+    },
+    {
+        "id": 1004,
+        "first_name": "Aman",
+        "last_name": "Vats",
+        "email": "aman@masaischool.com",
+        "gender": "Male",
+        "ip_address": "164.215.194.39",
+        "age": 24
+    },
+    {
+        "id": 1005,
+        "first_name": "Isha",
+        "last_name": "Kataria",
+        "email": "isha@masaischool.com",
+        "gender": "Female",
+        "ip_address": "164.215.194.40",
+        "age": 25
+    }
+]

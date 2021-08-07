@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "create an http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandra-akash/CRUD.git"
+  },
+  "author": "AkashChandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandra-akash/CRUD/issues"
+  },
+  "homepage": "https://github.com/chandra-akash/CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^1.2.2"
+  }
+}
